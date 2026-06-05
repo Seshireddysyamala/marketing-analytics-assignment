@@ -1,0 +1,59 @@
+{
+  "name": "Improvado Marketing Analytics",
+  "dataColors": [
+    "#4C8BF5",
+    "#1E3A8A",
+    "#D97757",
+    "#7C3AED",
+    "#059669",
+    "#F59E0B"
+  ],
+  "background": "#F7F8FA",
+  "foreground": "#111827",
+  "tableAccent": "#4C8BF5",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "fontSize": 11,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}
+
